@@ -4,7 +4,7 @@ java文件不是对象，class字节码文件不是对象，它是对象的静�
 
 # 对象的构成
 
-![java对象 (2)](C:\Users\ken1993\Downloads\java对象 (2).jpg)
+![](java%E5%AF%B9%E8%B1%A1.assets/java%E5%AF%B9%E8%B1%A1%20(2)-1630245375048.jpg)
 
 
 
@@ -39,4 +39,4 @@ public class JavaObject {
 
 # 测试效果
 
-![image-20210829214430806](C:\Users\ken1993\AppData\Roaming\Typora\typora-user-images\image-20210829214430806.png)
+![image-20210829215703010](java%E5%AF%B9%E8%B1%A1.assets/image-20210829215703010-1630245425499.png)
