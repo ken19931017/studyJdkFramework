@@ -21,3 +21,9 @@ The Java platform stores character values using Unicode conventions. Character s
 For most applications, I/O with character streams is no more complicated than I/O with byte streams. Input and output done with stream classes automatically translates to and from the local character set. A program that uses character streams in place of byte streams automatically adapts to the local character set and is ready for internationalization — all without extra effort by the programmer.
 
 If internationalization isn't a priority, you can simply use the character stream classes without paying much attention to character set issues. Later, if internationalization becomes a priority, your program can be adapted without extensive recoding. See the [Internationalization](https://docs.oracle.com/javase/tutorial/i18n/index.html) trail for more information.
+
+
+
+## 网络同步阻塞IO
+
+![img](%E5%90%8C%E6%AD%A5%E9%98%BB%E5%A1%9EIO.assets/da7e1ecfd3c3ee0263b8892342dbc629.png)
