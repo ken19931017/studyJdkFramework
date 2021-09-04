@@ -5,5 +5,7 @@
 
 #### 软件架构
 模块说明  
-1.java对象在内存中的基本构成-javaobject
 
+1. java对象在内存中的基本构成-javaobject
+
+2. 同步阻塞IO
